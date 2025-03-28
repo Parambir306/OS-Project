@@ -1,4 +1,5 @@
 Deadlock-Detection
+
 This repository contains a Python-based Deadlock Detection System that helps detect and prevent deadlocks in multi-threaded applications. Deadlocks occur when multiple processes or threads wait for each other indefinitely, preventing further execution. This project provides a solution to identify and resolve such issues efficiently.
 
 What is Deadlock Detection?
